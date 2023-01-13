@@ -1,2 +1,2 @@
-# Webscrapting-project
+# Webscrapping-project
 this is a project where we analyse webscrapping
